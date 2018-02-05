@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: fabric8-maven-sample-zero-config
+Implementation-Version: 3.5-SNAPSHOT
+Built-By: hiromitakahashi
+Implementation-Vendor-Id: io.fabric8
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
